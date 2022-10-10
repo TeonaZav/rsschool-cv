@@ -4,6 +4,9 @@ Junior full stack web developer
 ## Technical Skills
 `HTML` `CSS` `JavaScript` `ReactJS` `Node.js` `Express.js` `PostgreSQL`
 
+## Summary
+I’m a junior web developer with a lack of real-world working experience. However, I’m highly motivated, aware of all the difficulties, and ready to face real problems. Since I appreciate everyone's time, I always try to solve problems myself, get the vast majority of information from open sources, and only ask questions when it is really necessary. I am sure that our possible cooperation will be successful both for me (as I will get experience) and for you, as you will get one of the most responsible people who never will be satisfied with the achievements and will always be aimed at upgrading skills.
+
 ## Projects
 
 ### Frontend Mentor challenges:
