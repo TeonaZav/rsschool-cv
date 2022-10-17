@@ -132,7 +132,7 @@ footer {
   width: 4rem;
   height: 4rem;
 }
-/* more than 768PX (for desktop )*/
+
 @media (min-width: 48em) {
   .cv {
     padding: 4rem 4rem;
@@ -161,7 +161,7 @@ footer {
     padding: 2rem 9rem;
   }
 }
-/* more than 1440PX (for desktop )*/
+
 @media (min-width: 90em) {
   .cv {
     max-width: 80rem;
